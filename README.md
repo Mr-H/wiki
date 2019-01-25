@@ -1,3 +1,3 @@
 # wiki
 
-[a relative link](content/test1.md)
+[test1](content/test1.md)

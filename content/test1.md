@@ -1,5 +1,4 @@
 ## 1. Conceptual Architecture 
-##===========================
 
 ### Purpose
 

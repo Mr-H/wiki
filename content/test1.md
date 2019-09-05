@@ -3,7 +3,7 @@
 ### Purpose
 
 The broadly stated goal of enterprise architecture is to create a common
-and cohesive vision between business and technology leaders. A principal
+and cohesive vision between business and technology thought leaders. A principal
 design consideration of a technical infrastructure and architecture is
 to facilitate easy and rapid change. This change, driven by business
 requirements from the internal business process change and external
@@ -17,8 +17,8 @@ The Conceptual Architecture contains values and practices that represent
 the core business and technical ideas on which all the technical domain
 architectures are derived. These values guide the implementation of
 technology to meet business requirements. They are the rules that guide
-investment and design to maximize the business benefit and the
-adaptability of the IT environment.
+investment and design to maximize business value and the
+adaptability, flexibility, and agility of the IT environment.
 
 ### Scope
 
